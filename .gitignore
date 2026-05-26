@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+ENV/
+
+# Secrets et configuration locale
+.env
+*.key
+secrets/
+
+# IDE / éditeurs
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
